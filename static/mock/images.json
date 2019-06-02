@@ -1,0 +1,66 @@
+{
+    "code": 200,
+    "message": "成功!",
+    "swiperImg":[
+        {
+          "id":1,
+          "title": "随机一图１",
+          "largeImg":"http://w.wfjjt.top/1.jpeg"
+        },
+        {
+          "id":2,
+          "title":"随机一图２",
+          "largeImg":"http://w.wfjjt.top/2.jpeg"
+        },
+        {
+          "id":3,
+          "title":"随机一图３",
+          "largeImg":"http://w.wfjjt.top/3.jpeg"
+        },
+        {
+          "id":4,
+          "title":"随机一图４",
+          "largeImg":"http://w.wfjjt.top/4.jpeg"
+        },
+        {
+          "id":5,
+          "title":"随机一图５",
+          "largeImg":"http://w.wfjjt.top/5.jpeg"
+        },
+        {
+          "id":6,
+          "title":"随机一图６",
+          "largeImg":"http://w.wfjjt.top/6.jpeg"
+        },
+        {
+          "id":7,
+          "title":"随机一图７",
+          "largeImg":"http://w.wfjjt.top/7.jpeg"
+        },
+        {
+          "id":8,
+          "title":"随机一图８",
+          "largeImg":"http://w.wfjjt.top/8.jpeg"
+        },
+        {
+          "id":9,
+          "title":"随机一图９",
+          "largeImg":"http://w.wfjjt.top/9.jpeg"
+        },
+        {
+          "id":10,
+          "title":"随机一图１０",
+          "largeImg":"http://w.wfjjt.top/10.jpeg"
+        },
+        {
+          "id":11,
+          "title":"随机一图９",
+          "largeImg":"http://w.wfjjt.top/9.jpeg"
+        },
+        {
+          "id":12,
+          "title":"随机一图１０",
+          "largeImg":"http://w.wfjjt.top/10.jpeg"
+        }
+      ]
+}
